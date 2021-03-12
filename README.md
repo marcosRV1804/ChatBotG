@@ -1,3 +1,5 @@
+DarckMr
+
 Es un bot para chats, funciona en kali linux. Su uso es muy sencillo, solo debes crear un archivo en el directorio de `chats` y escribir en él lo que quieres que envíe el bot, luego ejecuta el programa, pero ya tienes que tener listo un chat abierto, ya que será. para ir muy rápido al chat después de ejecutar el script e indicar el archivo a enviar.
 
 <p align="center">
